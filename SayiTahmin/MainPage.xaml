@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SayiTahmin.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Kalan Hak Sayınız" FontAttributes="Bold" FontSize="24" HorizontalOptions="Center" VerticalOptions="Start" />
+        <Label Text="10" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Start" x:Name="lblHak"></Label>
+        <BoxView HeightRequest="150" VerticalOptions="Center" HorizontalOptions="FillAndExpand" BackgroundColor="Aqua" x:Name="boxView"></BoxView>
+        <Entry VerticalOptions="Center" HorizontalOptions="FillAndExpand" VerticalTextAlignment="Center" x:Name="txtSayi"></Entry>
+        <Button Clicked="Button_Clicked" Text="Tahmin Et" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="200" CornerRadius="10" BorderColor="Aqua" BorderWidth="3" BackgroundColor="SeaGreen" TextColor="White"></Button>
+    </StackLayout>
+
+</ContentPage>

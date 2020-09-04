@@ -1,0 +1,16 @@
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\bin\Debug\netstandard2.0\SayiTahmin.deps.json
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\bin\Debug\netstandard2.0\SayiTahmin.dll
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\bin\Debug\netstandard2.0\ref\SayiTahmin.dll
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\bin\Debug\netstandard2.0\SayiTahmin.pdb
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\SayiTahmin.csprojAssemblyReference.cache
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\Views\LoserPage.xaml.g.cs
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\Views\WinnerPage.xaml.g.cs
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\SayiTahmin.AssemblyInfoInputs.cache
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\SayiTahmin.AssemblyInfo.cs
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\SayiTahmin.dll
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\ref\SayiTahmin.dll
+C:\Users\hasae\Desktop\Xamarin\SayiTahmin\SayiTahmin\obj\Debug\netstandard2.0\SayiTahmin.pdb
